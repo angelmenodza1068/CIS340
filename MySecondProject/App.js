@@ -18,7 +18,7 @@ import { Text, TextInput, View } from 'react-native';
 
 export default function MultiComp(){
   retrun(
-<View> style + {{flex:1,
+<View> style = {{flex:1,
 justifyContent: 'Center',
 alignItems: 'center'
 }}>
